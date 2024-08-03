@@ -1,6 +1,8 @@
 # Real-Time Price Tracker
 Hi, I'm Sudhakar Mirjeli, having 3+ years of experience in Web development, I have designed a website to collect and display real-time price data for stocks. 
 
+Working functionality video link:- https://www.awesomescreenshot.com/video/30163841?key=232a8d8d61659515a93ce2b96aa8d60a
+
 ## Overview
 
 This project is a mini-website designed to collect and display real-time price data for stocks or cryptocurrencies. It uses the LiveCoinWatch API to fetch data, stores it in a MongoDB database, and displays the most recent 20 entries in a dynamic table on the frontend. The application is built with Next.js, TypeScript, and Redux.
