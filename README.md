@@ -33,6 +33,8 @@ This project is a mini-website designed to collect and display real-time price d
 
 1. Clone the repository:
    ```bash
+   git clone https://github.com/Sudhakar-Mirjeli/Real-Time-Price-Tracker.git
+   cd real-time-price-tracker
  
 
 2.Install dependencies:
